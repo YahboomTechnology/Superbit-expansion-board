@@ -1,0 +1,15 @@
+Super:bit expansion board function paramter:
+1.Method of power supply:  on board 18650 lithium battery(4.2v), power supply3--5v(+/-0.2V)
+2.Power indicator and changer indicator
+3.On board 5V boost circuit
+4.Low valogate protection 
+5. Regulator circuit function, can support 3.3V/500mA load 
+6. Servo overcurrent protection.
+7. 1 buzzer, 4 programmable RGB lights.
+8. 8 channle servo interface.
+9. 4 channle DC motor (N20 geared motor) , current output : 0.5-1.5A.
+10. 2 channle stepper motor interface
+11. 2 channle PH2.0-4P socket, 1 channle I2C communication function, 1 channle serial communication. (I2C interface can be used with other modules in the our store, serial port interface can be used with WIFI camera or TTL downloader)
+12.micro bit interface is reserved (P0--P14, where P12 is used for programming light)
+13.10 gold fingers (0, 1, 2, 3, 4, 10, two 3.3V, two GND)
+14. 1 channle IIC 2.54mm pin header interface (can be connected to other modules such as Arduino)
