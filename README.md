@@ -12,9 +12,7 @@ It be designed with bilateral symmetry, onboard micro:bit board socket, 18650 ba
 * It means the BBC micro:bit can very easily become the core of a whole variety of robotics projects.
 
 # Required Best Buy Links
-[By on Amazon](https://www.amazon.com/dp/B085RMLFCL?ref_=ast_sto_dp)
-
-[By on Yahboom website](https://category.yahboom.net/products/rgb-cooling-hat)
+[By on Yahboom website](https://category.yahboom.net/products/super-bit)
 
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
