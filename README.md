@@ -1,5 +1,5 @@
 # Superbit-expansion-board
-![](https://github.com/YahboomTechnology/Superbit-expansion-board/blob/master/superbit.jpg)
+![](https://github.com/YahboomTechnology/Superbit-expansion-board/blob/master/superbit_board.jpg)
 # Introduction
 It be designed with bilateral symmetry, onboard micro:bit board socket, 18650 battery socket, USB power supply interface, 3-5v external power interface, 4 programmable RGB lights, buzzer, I2C interface , WIFI camera serial port, all kinds of motor interfaces and so on, which is an expansion board designed for micro:bit. It also can be connected with 2 channel stepper motors, 4 channel DC motors, 8 channel servos, coupled with stable power supply scheme and various protection circuits, this expansion board has a powerful ability to drive motor. We expand 17 pin header IO ports and 10 alligator clip interfaces to support our sensor modules. The WIFI camera serial interface, IIC interface and LEGO holes make it possible for users to expand into more interesting projects. You can build your own shape with the LEGO bricks, connect some electronic devices, and control it by micro:bit programming.  It is an excellent choice for your robotic projects based on Micro:bit!
 # Features
